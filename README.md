@@ -1,6 +1,6 @@
 # Void Dasher
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/agmmdotdev/generated-app-20250927-170219)
 
 A retro-themed, 2D top-down arcade space shooter where you pilot a ship, dodge asteroids, and destroy enemies to achieve a high score.
 
@@ -93,7 +93,7 @@ This will build and deploy your application, making it available on a `.pages.de
 
 Alternatively, you can connect your GitHub repository to Cloudflare Pages for automatic deployments on every push.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/agmmdotdev/generated-app-20250927-170219)
 
 ## License
 
